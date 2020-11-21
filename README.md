@@ -1,3 +1,3 @@
-# CBTextEditor
-CBTextEditor
+# TextEditor
+TextEditor
 "# Text-Editor" 
